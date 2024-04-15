@@ -170,6 +170,8 @@ Javaheri在中提出了一种 point-to-distribution的方法，该方法提出�
 
 <img src="C:\Users\86157\Documents\WeChat Files\wxid_ec12rq8qu3kx22\FileStorage\Temp\1712567283227.png" alt="1712567283227" style="zoom: 50%;" />
 
+<img src="C:\Users\86157\AppData\Roaming\Typora\typora-user-images\image-20240414174115098.png" alt="image-20240414174115098" style="zoom:50%;" />
+
 4、No-reference point cloud quality assessment via domain adaptation）(基于域自适应的无参考点云质量评估) ，建议利用无监督对抗域自适应(UADA)来解决无参考PCQA，提出了一种用于3DPC的度量，即图像传输点云质量评估(IT-PCQA)。
 
 人类的视觉系统(HVS)是决策者，利用自然图像丰富的主观评分，我们可以通过深度神经网络寻求人类感知的评价标准，并将预测能力转移到三维点云。
